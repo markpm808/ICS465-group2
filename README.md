@@ -1,1 +1,2 @@
-# ICS465-group2
+# ICS-465-group-2
+Week 2 assignment 
